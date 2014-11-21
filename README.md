@@ -1,4 +1,4 @@
-Boilerplate-threejs
+Barometer vis
 ===================
 
-Simple boilerplate for threejs projects. Clone and bower install.
+A barometer visualisation, funky friday project at Brandwatch
